@@ -1,0 +1,7 @@
+{
+  "name": "EduQuest: The Ultimate Study Companion",
+  "description": "A comprehensive AI-powered learning platform tailored for Civil Exams, Armed Forces entrance, and State/National Board students. Generate custom study plans, mock tests, and deep-dive into any subject with real-world grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
